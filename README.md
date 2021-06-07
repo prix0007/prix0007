@@ -17,14 +17,14 @@
 
 <br />
 
-Hi, I'm [Prince Anuragi]()), a Full Stack Developer and Software Engineer 🚀 from India, currently, I'm a Intern at Cypherock 🙍🏽‍♂️ [@Cypherock](https://cypherock.com) and Student 👨🏽‍💼[@IIITN_OFFICIAL](https://iiitn.ac.in). Beside's programming, I enjoy eating food and sleeping.
+Hi, I'm [Prince Anuragi]()), a Full Stack Developer and Software Engineer 🚀 from India, currently, I'm a learning Blockchain and Smart Contract development 🙍🏽‍♂️ and a Student @ 👨🏽‍💼[@IIITN_OFFICIAL](https://iiitn.ac.in). Beside's programming, I enjoy eating food and sleeping.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool at Cypherock :wink:;
-- 🌱 I’m currently learning Flutter and Blockchain; 
+- 👨🏽‍💻 Worked on something cool at Cypherock :wink:;
+- 🌱 I’m currently learning Blockchain and SMart Contracts; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
 - 📝[Resume]()
