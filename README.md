@@ -27,7 +27,7 @@ Hi, I'm [Prince Anuragi]()), a Full Stack Developer and Software Engineer 🚀 f
 - 🌱 I’m currently learning Blockchain and SMart Contracts; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
-- 📝[Resume]()
+- 📝[Resume](https://prix.vercel.app)
 
 **Languages and Tools:**  
 
