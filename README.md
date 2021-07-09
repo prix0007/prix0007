@@ -17,14 +17,14 @@
 
 <br />
 
-Hi, I'm [Prince Anuragi]()), a Full Stack Developer and Software Engineer 🚀 from India, currently, I'm a learning Blockchain and Smart Contract development 🙍🏽‍♂️ and a Student @ 👨🏽‍💼[@IIITN_OFFICIAL](https://iiitn.ac.in). Beside's programming, I enjoy eating food and sleeping.
+Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also MERN in past xD) and Software Engineer 🚀 from India, currently, I'm a exploring Blockchain Ecosystem and Smart Contract development 🙍🏽‍♂️ , a Student @ 👨🏽‍💼[@IIITN_OFFICIAL](https://iiitn.ac.in). Beside's programming, I enjoy eating food and sleeping and now thinking to stream money too 😉.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Worked on something cool at Cypherock :wink:;
-- 🌱 I’m currently learning Blockchain and SMart Contracts; 
+- 👨🏽‍💻 Worked on something cool at Cypehrock and Topleap :wink:;
+- 🌱 I’m currently learning Blockchain Ecosystem and Smart Contracts; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
 - 📝[Resume](https://prix.vercel.app)
