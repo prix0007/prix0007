@@ -23,9 +23,10 @@ Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Worked on something cool at Cypehrock and Topleap :wink:;
-- 🌱 I’m currently learning Blockchain Ecosystem and Smart Contracts; 
+- 👨🏽‍💻 Worked on something cool at Uniris / ARCHEthic and Near :wink:;
+- 🌱 I’m currently building and learning on Blockchain's; 
 - 💬 Ask me about anything, I am happy to help;
+- 🦀 Trying Hard to become rustacean
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
 - 📝[Resume](https://prix.vercel.app)
 
