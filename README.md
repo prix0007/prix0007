@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also MERN in past xD) and Software Engineer 🚀 from India, currently, I'm a exploring Blockchain Ecosystem and Smart Contract development 🙍🏽‍♂️ , a Student @ 👨🏽‍💼[@IIITN_OFFICIAL](https://iiitn.ac.in). Beside's programming, I enjoy eating food and sleeping and now thinking to stream money too 😉.
+Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also MERN in past xD) and Software Engineer 🚀 from India, currently, I'm a exploring Blockchain Ecosystem and Smart Contract development 🙍🏽‍♂️ .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
