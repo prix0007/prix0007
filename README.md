@@ -8,27 +8,23 @@
 <a href="https://www.linkedin.com/in/prince-anuragi-889188175/">
   <img align="left" alt="Prince's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/prix_007/">
-  <img align="left" alt="Prince's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 <br />
 
-Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also MERN in past xD) and Software Engineer 🚀 from India, currently, I'm a exploring Blockchain Ecosystem and Smart Contract development 🙍🏽‍♂️ .
+Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer and Software Engineer 🚀, currently, I'm a exploring L2 Solution for Blockchains and Smart Contract development 🙍🏽‍♂️ .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Worked on something cool at Uniris / ARCHEthic and Near :wink:;
-- 🌱 I’m currently building and learning on Blockchain's; 
+- 👨🏽‍💻 Working on bridges (bridging protocol for a multichained future) :wink:;
+- 🌱 I’m currently building and learning to be better; 
 - 💬 Ask me about anything, I am happy to help;
 - 🦀 Trying Hard to become rustacean
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
-- 📝[Resume](https://prix.vercel.app)
 
 **Languages and Tools:**  
 
@@ -38,7 +34,6 @@ Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer (also 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <summary>📈 My GitHub Stats</summary>
