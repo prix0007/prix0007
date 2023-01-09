@@ -20,8 +20,8 @@ Hi, I'm [Prince Anuragi](https://prix.vercel.app), a Blockchain Developer and So
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Working on bridges (bridging protocol for a multichained future) :wink:;
-- 🌱 I’m currently building and learning to be better; 
+- 👨🏽‍💻 Learning on Zero Knowledge proofs and rust;
+- 🌱 I’m currently building and learning to be better at efficient coding; 
 - 💬 Ask me about anything, I am happy to help;
 - 🦀 Trying Hard to become rustacean
 - 📫 How to reach me: [@AnuragiPrince](https://twitter.com/anuragiprince);
